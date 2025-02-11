@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fundamentals.Hello()
+	fundamentals.Formatted()
 }
