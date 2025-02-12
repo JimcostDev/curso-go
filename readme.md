@@ -1,6 +1,6 @@
 # Programación en Go 🚀
 
-Explora el mundo de Golang con esta serie de videos donde aprenderás desde los conceptos básicos hasta proyectos prácticos. Descubre cómo desarrollar algoritmos, manejar estructuras de datos y construir aplicaciones eficientes con Go.
+Bienvenido al repositorio del curso de Go. Aquí encontrarás recursos y ejemplos relacionados con la lista de reproducción de YouTube donde aprenderás desde los fundamentos hasta la creación de proyectos prácticos con Golang.
 
 ## 📌 Contenido del curso
 
@@ -8,7 +8,7 @@ Explora el mundo de Golang con esta serie de videos donde aprenderás desde los 
 ✔️ Algoritmos y lógica de programación  
 ✔️ Proyectos prácticos y ejercicios  
 
-🔗 **Lista de reproducción en YouTube:** [Ver curso](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
+🔗 **Lista de reproducción:** [Curso de Go - JimCostDev](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
 
 ![img-go](./imgs/gophers.jpg)
 
