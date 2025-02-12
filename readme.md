@@ -1,6 +1,6 @@
 # Programación en Go 🚀
 
-Bienvenido al repositorio del curso de Go. Aquí encontrarás recursos y ejemplos relacionados con la lista de reproducción de YouTube donde aprenderás desde los fundamentos hasta la creación de proyectos prácticos con Golang.
+Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material de apoyo, ejemplos de código y recursos complementarios para aprender Golang.
 
 ## 📌 Contenido del curso
 
@@ -9,6 +9,8 @@ Bienvenido al repositorio del curso de Go. Aquí encontrarás recursos y ejemplo
 ✔️ Proyectos prácticos y ejercicios  
 
 🔗 **Lista de reproducción:** [Programación en Go - JimcostDev](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
+
+🚀 **Sumérgete en el mundo de Go y domina uno de los lenguajes más potentes y eficientes de la actualidad.**
 
 ![img-go](./imgs/gophers.jpg)
 
