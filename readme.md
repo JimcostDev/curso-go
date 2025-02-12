@@ -10,7 +10,7 @@ Explora el mundo de Golang con esta serie de videos donde aprenderás desde los 
 
 🔗 **Lista de reproducción en YouTube:** [Ver curso](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
 
-![img-go](https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.jpg?raw=true)
+![img-go](./imgs/gophers.jpg)
 
 ---
 
