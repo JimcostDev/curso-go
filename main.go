@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fundamentals.Pointers()
+	fundamentals.Generics()
 }
