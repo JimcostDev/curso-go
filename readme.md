@@ -8,7 +8,7 @@ Bienvenido al repositorio del curso de Go. Aquí encontrarás recursos y ejemplo
 ✔️ Algoritmos y lógica de programación  
 ✔️ Proyectos prácticos y ejercicios  
 
-🔗 **Lista de reproducción:** [Curso de Go - JimCostDev](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
+🔗 **Lista de reproducción:** [Programación en Go - JimcostDev](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
 
 ![img-go](./imgs/gophers.jpg)
 
