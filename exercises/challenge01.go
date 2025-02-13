@@ -19,7 +19,7 @@ import (
 	"strings"
 )
 
-func Exercise01() {
+func Challenge01() {
 	var nombre string
 	var edad int
 	var altura float64
