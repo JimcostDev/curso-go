@@ -5,5 +5,8 @@ import (
 )
 
 func Hello() {
-	fmt.Println("Hello, World!, desde fundamentals")
+	fmt.Println("------------")
+	fmt.Println("Hola Gophers!")
+	fmt.Println("------------")
+	fmt.Println("") // línea en blanco
 }

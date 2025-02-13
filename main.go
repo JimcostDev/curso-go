@@ -1,9 +1,12 @@
 package main
 
 import (
+	"github.com/JimcostDev/curso-go/exercises"
 	"github.com/JimcostDev/curso-go/fundamentals"
 )
 
 func main() {
-	fundamentals.Generics()
+	// aqui probamos nuestro código
+	fundamentals.Hello()
+	exercises.Exercise01()
 }
