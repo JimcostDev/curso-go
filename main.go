@@ -8,5 +8,5 @@ import (
 func main() {
 	// aqui probamos nuestro código
 	fundamentals.Hello()
-	exercises.Challenge01()
+	exercises.Challenge02()
 }
