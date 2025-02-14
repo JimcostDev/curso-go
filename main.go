@@ -7,6 +7,6 @@ import (
 
 func main() {
 	// aqui probamos nuestro código
-	fundamentals.Hello()
+	fundamentals.Outputs()
 	exercises.Challenge02()
 }
