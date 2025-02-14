@@ -1,13 +1,19 @@
 package fundamentals
 
 // Tipos de datos básicos en Go:
-// Números enteros (int, int8, int16, int32, int64)
+// Números enteros (int8, int16, int32, int64, int) positivos(uint8, uint16, uint32, uint64, uint)
 // Números decimales (float32, float64)
 // Booleanos (bool)
 // Cadenas de texto (string)
 // Runa (caracteres) (rune)
 // Byte (equivalente a uint8) (byte)
 // tipos de datos en Go
+
+// Variable: Es un espacio en memoria que almacena un valor que puede cambiar durante la ejecución del programa.
+// En Go, se declara usando la palabra clave `var` seguida del nombre de la variable y su tipo.
+
+// Constante: Es un valor que no puede ser modificado una vez que ha sido asignado.
+// En Go, se declara usando la palabra clave `const` seguida del nombre de la constante y tipo.
 import (
 	"fmt"
 )
