@@ -8,5 +8,5 @@ import (
 func main() {
 	// aqui probamos nuestro código
 	fundamentals.Hello()
-	data_structure.Diff()
+	data_structure.Maps()
 }
