@@ -2,17 +2,19 @@
 
 Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material de apoyo, ejemplos de código y recursos complementarios para aprender Golang.
 
-## 📌 Contenido del curso
+## 📌 Contenido del curso:
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ✔️ Fundamentos de Golang  
 ✔️ Algoritmos y lógica de programación  
 ✔️ Proyectos prácticos y ejercicios  
 
-🔗 **Lista de reproducción:** [Programación en Go - JimcostDev](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
+🔗 **Lista de reproducción:** [Programación en Go](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
 
 🚀 **Sumérgete en el mundo de Go y domina uno de los lenguajes más potentes y eficientes de la actualidad.**
 
-![img-go](./imgs/gophers.jpg)
+[![img-go](./imgs/gophers.jpg)](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
+
 
 ---
 
