@@ -44,7 +44,6 @@ type AllRounder struct {
 }
 
 // Método Pelear para AllRounder.
-// Para evitar ambigüedades, usamos el Nombre proveniente de uno de los tipos embebidos (en este ejemplo, Striker).
 func (a AllRounder) Pelear() {
 	fmt.Printf("%s combina el striking y el grappling: %d strikes y %d derribos!\n",
 		a.Nombre,
