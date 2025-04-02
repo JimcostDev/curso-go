@@ -37,6 +37,10 @@ func (a *ArtistaMarcial) Derrota() {
 	fmt.Printf("¡%s ha perdido una pelea! Nuevo récord: %d - %d\n", a.Nombre, a.Victorias, a.Derrotas)
 }
 
+// Si NO usas * (receptor por valor): Trabajas con una copia, los cambios no se guardan.
+// Si usas * (receptor por puntero): Trabajas con la misma instancia, los cambios sí se guardan.
+// Para métodos que modifican datos (como Victoria() o Derrota()), siempre debes usar * en el receptor.
+
 func Structs() {
 	// crear un luchador
 	luchador := ArtistaMarcial{

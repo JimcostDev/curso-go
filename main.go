@@ -8,5 +8,5 @@ import (
 func main() {
 	// aqui probamos nuestro código
 	fundamentals.Hello()
-	types.Structs()
+	types.Interfaces()
 }
