@@ -8,5 +8,5 @@ import (
 func main() {
 	// aqui probamos nuestro código
 	fundamentals.Hello()
-	error_handling.Panic()
+	error_handling.CustomError()
 }
