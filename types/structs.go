@@ -21,11 +21,13 @@ type ArtistaMarcial struct {
 }
 
 // Método para presentar al peleador
+// Receptor por valor (a ArtistaMarcial). Esto significa que se trabaja con una copia del objeto original.
 func (a ArtistaMarcial) Presentarse() {
 	fmt.Printf("Soy %s, peso %.1f kg y mi récord es %d - %d\n", a.Nombre, a.Peso, a.Victorias, a.Derrotas)
 }
 
 // Método para registrar una victoria
+// Receptor por puntero (a *ArtistaMarcial). Esto significa que el método recibe una referencia al objeto original, y puede modificar su estado interno
 func (a *ArtistaMarcial) Victoria() {
 	a.Victorias++
 	fmt.Printf("¡%s ha ganado una pelea! Nuevo récord: %d - %d\n", a.Nombre, a.Victorias, a.Derrotas)
@@ -37,9 +39,8 @@ func (a *ArtistaMarcial) Derrota() {
 	fmt.Printf("¡%s ha perdido una pelea! Nuevo récord: %d - %d\n", a.Nombre, a.Victorias, a.Derrotas)
 }
 
-// Si NO usas * (receptor por valor): Trabajas con una copia, los cambios no se guardan.
-// Si usas * (receptor por puntero): Trabajas con la misma instancia, los cambios sí se guardan.
-// Para métodos que modifican datos (como Victoria() o Derrota()), siempre debes usar * en el receptor.
+// Se usa un puntero en el segundo método (*ArtistaMarcial) porque se necesita modificar el objeto original.
+// En el primero no se usa porque solo se lee, y una copia es suficiente.
 
 func Structs() {
 	// crear un luchador
