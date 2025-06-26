@@ -1,19 +1,14 @@
 # Programación en Go 🚀
 
+[<img alt="Curso de Go" src="./imgs/gophers.jpg" width="500"  />](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
+
 Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material de apoyo, ejemplos de código y recursos complementarios para aprender Golang.
 
-## 📌 Contenido del curso:
 [![jimcostdev](https://img.shields.io/badge/Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jimcostdev?sub_confirmation=1)
 
-✔️ Fundamentos de Golang  
-✔️ Algoritmos y lógica de programación  
-✔️ Proyectos prácticos y ejercicios  
+> [!TIP] 
+> !Si te resulta útil este proyecto, apóyalo con una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! :octocat:
 
-🔗 **Lista de reproducción:** [Programación en Go](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
-
-🚀 **Sumérgete en el mundo de Go y domina uno de los lenguajes más potentes y eficientes de la actualidad.**
-
-[<img alt="Curso de Go" src="./imgs/gophers.jpg" width="500"  />](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
 
 ## 📹 Lista de videos:
 - 00: [🚀 Introducción a Go: ¿Qué es Go y por qué aprenderlo?](https://www.youtube.com/watch?v=U-BfNz6ISdw)
@@ -39,8 +34,4 @@ Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material d
 - 19: [🗺️ Mapas en Go: Clave-Valor, Uso de make, Búsqueda y Eliminación](https://www.youtube.com/watch?v=C_8krw3Nr0Y)
 - 20: [🧱 Structs en Go: Crea tus propios tipos y métodos](https://www.youtube.com/watch?v=h2GVNam8KpA)
 
----
-
-> [!TIP] 
-> !Si te resulta útil este proyecto, apóyalo con una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! :octocat:
 
