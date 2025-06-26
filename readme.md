@@ -15,8 +15,7 @@ Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material d
 
 [<img alt="Curso de Go" src="./imgs/gophers.jpg" width="500"  />](https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X&si=AvDhsHYjKmEPwZ48)
 
-## 📹 Videos con las clases
-
+## 📹 Lista de videos:
 - 00: [🚀 Introducción a Go: ¿Qué es Go y por qué aprenderlo?](https://www.youtube.com/watch?v=U-BfNz6ISdw)
 - 01: [🛠️ Instalación de Go, Hola Mundo y Configuración del Entorno](https://www.youtube.com/watch?v=n1tM86Zzbdw)
 - 02: [🔢 Tipos de Datos en Go: Declaración de Variables y Constantes](https://www.youtube.com/watch?v=275kxocPtS8)
