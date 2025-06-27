@@ -1,4 +1,2 @@
 github.com/JimcostDev/jimcostdev-utils v1.0.0 h1:q/3VLvBY0R4HexiLD3TS+yBsTGisP19rM1dPwv/UzVQ=
 github.com/JimcostDev/jimcostdev-utils v1.0.0/go.mod h1:03+kQoTgAXDxH23661ILCRsVAmm26cdwlZ8wXfEUuNM=
-github.com/sashabaranov/go-openai v1.40.2 h1:IALpUnkdy6BDp2ZSAiD4vz+C2wpiKOlfUQcViLrfTOk=
-github.com/sashabaranov/go-openai v1.40.2/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
