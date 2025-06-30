@@ -30,16 +30,16 @@ func Interfaces() {
 	// Crear luchadores
 	striker := models.Striker{
 		Fighter: models.Fighter{Nombre: "Alex Pereira"},
-		Strikes: 34,
+		Strikes: 24,
 	}
 	grappler := models.Grappler{
 		Fighter:   models.Fighter{Nombre: "Khamzat Chimaev"},
-		Takedowns: 15,
+		Takedowns: 7,
 	}
 	allRounder := models.AllRounder{
-		Fighter:  models.Fighter{Nombre: "Islam Makhachev"},
+		Fighter:  models.Fighter{Nombre: "Ilia Topuria"},
 		Striker:  models.Striker{Strikes: 22},
-		Grappler: models.Grappler{Takedowns: 8}}
+		Grappler: models.Grappler{Takedowns: 2}}
 
 	// Usar la interfaz en un combate
 	// Como Striker, Grappler y AllRounder tienen un método Pelear(), automáticamente implementan Luchador.

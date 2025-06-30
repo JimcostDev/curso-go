@@ -13,7 +13,7 @@ func (f Fighter) Entrenar() {
 	fmt.Printf("%s está entrenando!\n", f.Nombre)
 }
 
-// Striker: luchador especializado en golpes (striking)
+// Striker: Especialista en pelea de pie. Utiliza técnicas de boxeo, muay thai, kickboxing, karate, etc. Busca el nocaut o dominar desde la distancia.
 type Striker struct {
 	Fighter // Embebe Fighter, heredando el campo Nombre.
 	Strikes int
@@ -24,7 +24,7 @@ func (s Striker) Pelear() {
 	fmt.Printf("%s lanza %d strikes!\n", s.Nombre, s.Strikes)
 }
 
-// Grappler: luchador especializado en derribos (grappling)
+// Grappler: Especialista en lucha cuerpo a cuerpo. Se enfoca en derribos, control en el suelo, sumisiones. Proviene del wrestling, jiu-jitsu, judo, sambo, etc.
 type Grappler struct {
 	Fighter
 	Takedowns int
@@ -35,7 +35,7 @@ func (g Grappler) Pelear() {
 	fmt.Printf("%s realiza %d derribos!\n", g.Nombre, g.Takedowns)
 }
 
-// AllRounder: luchador que combina striking y grappling.
+// AllRounder: Versátil. Tiene habilidades sólidas tanto de striking como de grappling. Puede adaptarse a distintos rivales y estilos.
 // Embebe tanto a Striker como a Grappler.
 type AllRounder struct {
 	Fighter
