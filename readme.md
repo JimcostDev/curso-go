@@ -33,5 +33,5 @@ Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material d
 - 18: [🧠 ¿Array o Slice en Go? Entiende la Diferencia de una Vez por Todas](https://www.youtube.com/watch?v=JqO8NLYW7ss)
 - 19: [🗺️ Mapas en Go: Clave-Valor, Uso de make, Búsqueda y Eliminación](https://www.youtube.com/watch?v=C_8krw3Nr0Y)
 - 20: [🧱 Structs en Go: Crea tus propios tipos y métodos](https://www.youtube.com/watch?v=h2GVNam8KpA)
-
+- 21: [Interfaces en Go: Polimorfismo y desacoplamiento](https://www.youtube.com/watch?v=RFCCPJATUnU)
 
