@@ -34,4 +34,5 @@ Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material d
 - 19: [🗺️ Mapas en Go: Clave-Valor, Uso de make, Búsqueda y Eliminación](https://www.youtube.com/watch?v=C_8krw3Nr0Y)
 - 20: [🧱 Structs en Go: Crea tus propios tipos y métodos](https://www.youtube.com/watch?v=h2GVNam8KpA)
 - 21: [🧩 Interfaces en Go: Polimorfismo y desacoplamiento](https://www.youtube.com/watch?v=RFCCPJATUnU)
+- 22: [🏆 Reto #5 en Go: La Conjetura de Goldbach](https://www.youtube.com/watch?v=6Q493vdomjc)
 
