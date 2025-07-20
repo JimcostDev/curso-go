@@ -36,3 +36,7 @@ Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material d
 - 21: [🧩 Interfaces en Go: Polimorfismo y desacoplamiento](https://www.youtube.com/watch?v=RFCCPJATUnU)
 - 22: [🏆 Reto #5 en Go: La Conjetura de Goldbach](https://www.youtube.com/watch?v=6Q493vdomjc)
 - 23: [🧯 Manejo de Errores en Go: De err != nil a panic/recover](https://www.youtube.com/watch?v=a5ShJfMcNAA)
+- 24 [🧵 Concurrencia en Go: Introducción](https://www.youtube.com/watch?v=t14QKe354PA)
+- 25 [⚙️ Concurrencia en Go: Goroutines, Canales, Mutex y WaitGroups en Acción](https://www.youtube.com/watch?v=TjWuo5p3Oxw)
+- 26 [🌐 Servicios Web en Go: Introducción al Desarrollo Web](https://www.youtube.com/watch?v=IV-Z4l1zU4o)
+- 27 [🕸️ Tu Primer Servidor Web en Go: Rutas, Parámetros y HTML](https://www.youtube.com/watch?v=Ibl44mwn2vI)
