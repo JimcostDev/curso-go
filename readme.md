@@ -40,3 +40,5 @@ Bienvenido al repositorio oficial del curso de Go. Aquí encontrarás material d
 - 25 [⚙️ Concurrencia en Go: Goroutines, Canales, Mutex y WaitGroups en Acción](https://www.youtube.com/watch?v=TjWuo5p3Oxw)
 - 26 [🌐 Servicios Web en Go: Introducción al Desarrollo Web](https://www.youtube.com/watch?v=IV-Z4l1zU4o)
 - 27 [🕸️ Tu Primer Servidor Web en Go: Rutas, Parámetros y HTML](https://www.youtube.com/watch?v=Ibl44mwn2vI)
+- 28 [📦 Gestión de Módulos en Go: Paquetes, go.mod y go.sum](https://www.youtube.com/watch?v=AibVxJxm1ck)
+- 29 [🧪 Testing en Go: Unit Tests y Table-Driven Tests](https://www.youtube.com/watch?v=NQGJGypYlEo)
