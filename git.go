@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func main() {
+func gitgo() {
 	// Ejecutar git add .
 	addCmd := exec.Command("git", "add", ".")
 	if err := addCmd.Run(); err != nil {
