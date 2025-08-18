@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/JimcostDev/curso-go/ai"
+	"github.com/JimcostDev/curso-go/exercises"
 	"github.com/JimcostDev/curso-go/fundamentals"
 	"github.com/JimcostDev/curso-go/utils"
 )
@@ -12,4 +13,5 @@ func main() {
 	ai.Gemini()
 	utils.TitleCaseExample("hola mundo")
 	utils.Number(5)
+	exercises.BankAccount()
 }
