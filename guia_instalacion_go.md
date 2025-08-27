@@ -1,77 +1,47 @@
-# Guía para Instalar Go
+# Guía de Instalación de Go
 
-## Instalar Go en Windows
+## Windows
+1. Descarga el instalador `.msi` desde [go.dev/dl](https://go.dev/dl/)
+2. Ejecuta el instalador y sigue los pasos
+3. Verifica con `go version` en cmd
 
-1. **Descargar el instalador**  
-   - Ve a [la página oficial de Go](https://go.dev/dl/).
-   - Descarga el archivo `.msi` para Windows.
+## macOS
+**Opción 1 - Homebrew (recomendado):**
+```sh
+brew install go
+```
 
-2. **Ejecutar el instalador**  
-   - Abre el archivo `.msi` descargado.
-   - Sigue los pasos del instalador y acepta los valores predeterminados.
+**Opción 2 - Instalador oficial:**
+1. Descarga el archivo `.pkg` desde [go.dev/dl](https://go.dev/dl/)
+2. Ejecuta el instalador
 
-3. **Configurar las variables de entorno** (normalmente se configuran automáticamente).  
-   - Para verificar, abre la terminal (`cmd`) y ejecuta:  
-     ```sh
-     go version
-     ```
-   - Si ves algo como `go version goX.X.X`, la instalación fue exitosa.
+## Linux
+**Opción 1 - APT (Ubuntu/Debian):**
+```sh
+sudo apt update
+sudo apt install golang-go
+```
 
----
+**Opción 2 - Instalación manual:**
+```sh
+# Descargar y extraer
+wget https://go.dev/dl/go1.21.5.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go
+sudo tar -C /usr/local -xzf go1.21.5.linux-amd64.tar.gz
 
-## Instalar Go en macOS
+# Agregar al PATH
+echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.bashrc
+source ~/.bashrc
+```
 
-1. **Usar el instalador oficial**  
-   - Ve a [la página de descargas de Go](https://go.dev/dl/).
-   - Descarga el archivo `.pkg` y ábrelo.
-   - Sigue los pasos del instalador.
+## Verificación
+Ejecuta en cualquier sistema:
+```sh
+go version
+```
 
-2. **Usar Homebrew (opcional, recomendado)**  
-   - Abre la terminal y ejecuta:  
-     ```sh
-     brew install go
-     ```
-
-3. **Verificar la instalación**  
-   - En la terminal, ejecuta:  
-     ```sh
-     go version
-     ```
-   - Si aparece `go version goX.X.X`, todo está bien.
-
----
-
-## Instalar Go en Linux (Ubuntu/Debian)
-
-1. **Descargar Go**  
-   - Ve a [la página oficial de Go](https://go.dev/dl/) y copia el enlace del último archivo `.tar.gz`.
-
-2. **Instalar Go**  
-   - Abre la terminal y ejecuta:  
-     ```sh
-     wget https://go.dev/dl/goX.X.X.linux-amd64.tar.gz
-     sudo rm -rf /usr/local/go
-     sudo tar -C /usr/local -xzf goX.X.X.linux-amd64.tar.gz
-     ```
-
-3. **Configurar el PATH**  
-   - Agrega Go al PATH editando el archivo `~/.profile` o `~/.bashrc`:  
-     ```sh
-     echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.profile
-     source ~/.profile
-     ```
-
-4. **Verificar la instalación**  
-   ```sh
-   go version
-   ```
-
----
-
-## ¡Listo para programar en Go!
-
-Ahora puedes escribir código en Go. Para verificar que todo funciona, crea un archivo `hello.go` con este contenido:
-
+## Primer programa
+Crea `hello.go`:
 ```go
 package main
 
@@ -82,9 +52,7 @@ func main() {
 }
 ```
 
-Para ejecutarlo, usa:
-
+Ejecuta con:
 ```sh
 go run hello.go
 ```
-
