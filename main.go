@@ -13,5 +13,5 @@ func main() {
 	ai.Gemini()
 	utils.TitleCaseExample("hola mundo")
 	utils.Number(5)
-	exercises.BankAccount()
+	exercises.PrintPy()
 }
