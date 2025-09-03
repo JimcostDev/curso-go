@@ -14,4 +14,5 @@ func main() {
 	utils.TitleCaseExample("hola mundo")
 	utils.Number(5)
 	exercises.PrintPy()
+	fundamentals.Enums()
 }
