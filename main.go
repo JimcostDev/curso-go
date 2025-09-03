@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/JimcostDev/curso-go/ai"
+	"github.com/JimcostDev/curso-go/error_handling"
 	"github.com/JimcostDev/curso-go/exercises"
 	"github.com/JimcostDev/curso-go/fundamentals"
 	"github.com/JimcostDev/curso-go/utils"
@@ -14,5 +15,5 @@ func main() {
 	utils.TitleCaseExample("hola mundo")
 	utils.Number(5)
 	exercises.PrintPy()
-	fundamentals.Enums()
+	error_handling.Coffee()
 }
