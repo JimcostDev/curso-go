@@ -15,5 +15,5 @@ func main() {
 	utils.TitleCaseExample("hola mundo")
 	utils.Number(5)
 	exercises.PrintPy()
-	concurrency.Channels()
+	concurrency.Select()
 }
