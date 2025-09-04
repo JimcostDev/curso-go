@@ -1,4 +1,6 @@
 github.com/JimcostDev/jimcostdev-utils v1.0.0 h1:q/3VLvBY0R4HexiLD3TS+yBsTGisP19rM1dPwv/UzVQ=
 github.com/JimcostDev/jimcostdev-utils v1.0.0/go.mod h1:03+kQoTgAXDxH23661ILCRsVAmm26cdwlZ8wXfEUuNM=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 golang.org/x/crypto v0.41.0 h1:WKYxWedPGCTVVl5+WHSSrOBT0O8lx32+zxmHxijgXp4=
 golang.org/x/crypto v0.41.0/go.mod h1:pO5AFd7FA68rFak7rOAGVuygIISepHftHnr8dr6+sUc=

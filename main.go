@@ -10,5 +10,5 @@ func main() {
 	// aqui probamos nuestro código
 	fundamentals.Hello()
 	ai.Gemini()
-	utils.Bcrypt()
+	utils.Env()
 }
